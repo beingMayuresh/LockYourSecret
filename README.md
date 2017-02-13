@@ -21,7 +21,7 @@ In this showcase you'll see the following in action:
 	
 	ModelAndView
 
-	JDBC
+	MySQL database
 	
 	Type Conversion
 
