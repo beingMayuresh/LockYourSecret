@@ -3,7 +3,7 @@ mini Java Spring MVC app built using MAVEN to save your secret after login/signU
 
 In this showcase you'll see the following in action:
 
-Pure Annotation Based Configuration for dispatcherServlet and web.xml(WebInitializer)
+Pure Annotation Based Configuration for dispatcherServlet and web.xml(WebInitializer)<br>
 The possible @Controller
 Mapping Requests
 Generating Responses
