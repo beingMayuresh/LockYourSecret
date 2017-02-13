@@ -16,13 +16,15 @@ In this showcase you'll see the following in action:
 	Generating Responses
 
 	Rendering Views
- 
+	
+	Automatic components scan
+	
+	ModelAndView
+
+	JDBC
+	
 	Type Conversion
 
 	Forms
 
-	Automatic components scan
 	
- ModelAndView
-
-	JDBC
